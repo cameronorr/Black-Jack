@@ -1,0 +1,25 @@
+#title{
+	-fx-font-family: times;
+	-fx-font-weight: bold;
+	
+}
+
+#layout{
+	-fx-background-color: gray;
+}
+
+#signLayout{
+	-fx-background-color: lightblue;
+}
+#userLabelFont{
+	-fx-font-family: times;
+	-fx-font-weight: bold;
+}
+#game{
+	-fx-background-color: green;
+}
+#leader{
+	-fx-font-family: times;
+	-fx-font-weight: bold;
+	-fx-font-size: 48;
+}
